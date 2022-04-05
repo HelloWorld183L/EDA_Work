@@ -1,0 +1,85 @@
+﻿Field,Description
+location_street_highway,Incident location: street/highway
+location_public_transport,Incident location: public transport
+location_retail_premises,Incident location: retail premises
+location_open_ground,"Incident location: open ground (e.g. park, car park, field etc.)"
+location_licensed_premises,Incident location: licensed premises
+location_sports_event_stadia,Incident location: sports or event stadia
+location_hospital_a_and_e,Incident location: hospital/A&E (non mental health setting)
+location_mental_health_setting,Incident location: mental health setting
+location_police_vehicle_w_cage,Incident location: police vehicle with prisoner handling cage
+location_police_vehicle_wo_cage,Incident location: police vehicle without prisoner handling cage
+location_dwelling,Incident location: dwelling
+location_police_station_ex_custody_block,Incident location: police station (excluding custody block)
+location_custody_block,Incident location: custody block
+location_ambulance,Incident location: ambulance
+location_other,Incident location: other
+impact_factor_possession_weapon,Impact factor: possession of a weapon
+impact_factor_alcohol,Impact factor: alcohol
+impact_factor_drugs,Impact factor: drugs
+impact_factor_mental_health,Impact factor: mental health
+impact_factor_prior_knowledge,Impact factor: prior knowledge
+impact_factor_size_gender_build,Impact factor: size/gender/build
+impact_factor_acute_behavioural_disorder,Impact factor: acute behavioural disorder
+impact_factor_crowd,Impact factor: crowd
+impact_factor_other,Impact factor: other
+reason_protect_self,Reason for force: protect self
+reason_protect_public,Reason for force: protect public
+reason_protect_person,Reason for force: protect subject
+reason_protect_other_officers,Reason for force: protect other officers
+reason_prevent_offence,Reason for force: prevent offence
+reason_secure_evidence,Reason for force: secure evidence
+reason_effect_stop_search,Reason for force: effect stop and search
+reason_effect_search_custody,Reason for force: effect search in custody
+reason_effect_other_search,Reason for force: effect other search
+reason_effect_arrest,Reason for force: effect arrest
+reason_remove_handcuffs,Reason for force: remove handcuffs
+reason_prevent_harm,Reason for force: prevent harm
+reason_prevent_escape,Reason for force: prevent escape
+reason_other,Reason for force: other
+person_perceived_age,Person's perceived age 
+person_perceived_gender,Person's perceived gender
+person_perceived_ethnicity,Person's perceived ethnicity
+person_physical_health_cond,Person perceived physical health condition 
+person_mental_health_cond,Person perceived mental health condition
+officer_injured,Officer physically injured
+officer_injured_intentional_assault,Officer injury received as intentional assault
+officer_injury_level,Officer injury level
+officer_medical_provided,Officer medical assistance provided
+person_injured_from_force,Person injured as a result of force used
+person_injury_level,Person nature of injury
+person_medical_offered,Person medical assistance offered
+person_medical_provided,Person medical assistance provided
+outcome_no_further_action,Outcome: no further action
+outcome_arrested,Outcome: arrested
+outcome_hospitalised,Outcome: hospitalised
+outcome_detained_mha,Outcome: detained (Mental Health Act)
+outcome_fatality,Outcome: fatality
+outcome_other,Outcome: other
+police_force,Police force
+compliant_handcuffing,Tactic used: compliant handcuffing
+non_compliant_handcuffing,Tactic used: non-compliant handcuffing
+handcuffing_not_stated,Tactic used: handcuffing not stated
+limb_body_restraints,Tactic used: limb/body restraints
+ground_restraint,Tactic used: ground restraint
+unarmed_skills,Tactic used: unarmed skills
+baton_drawn,Tactic used: baton drawn
+baton_used,Tactic used: baton used
+baton_not_stated,Tactic used: baton not stated
+grouped_irritant_drawn,Tactic used: irritant spray drawn
+grouped_irritant_used,Tactic used: irritant spray used
+irritant_spray_not_stated,Tactic used: irritant spray not stated
+spit_guard,Tactic used: spit and bite guard
+shield,Tactic used: shield
+ced,Tactic used: ced
+ced_highest_use,Tactic used: ced highest use
+aep_drawn,Tactic used: aep drawn
+aep_used,Tactic used: aep used
+aep_not_stated,Tactic used: aep not stated
+firearms_aimed,Tactic used: firearms aimed
+firearms_fired,Tactic used: firearms fired
+firearms_not_stated,Tactic used: firearms not stated
+other_improvised,Tactic used: other/improvised
+dog_deployed,Tactic used: dog deployed
+dog_bite,Tactic used: dog bite
+dog_not_stated,Tactic used: dog not stated
